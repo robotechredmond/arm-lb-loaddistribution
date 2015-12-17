@@ -52,7 +52,7 @@
       "allowedValues": [
         "Default",
         "SourceIP",
-		"SourceIPProtocol"
+        "SourceIPProtocol"
       ],
       "metadata": {
         "description": "Type of Load Balancing distribution"
